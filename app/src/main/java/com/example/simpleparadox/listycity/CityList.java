@@ -80,8 +80,6 @@ public class CityList {
 
     public void addEdmonton(){
 
-        City edmonton = new City("Edmonton","Alberta");
-        cities.add(edmonton);
 
     }
 }
